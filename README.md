@@ -39,7 +39,7 @@ git branch
 git checkout
 git pull 
 ```
-We used <git branch Name> to create a branch which is a version of your repository, or in other words, an independent line of development. A repository can contain multiple branches, which means there are multiple versions of the repository.  
-We used <git brach> to see in which branch are we in.  
-We used <git checkout new_branch> to switch branches.  
-We used <git pull> command to fetch and download content from the remote repository and immediately update the local repository to match that content.  
+We used **git branch Name** to create a branch which is a version of your repository, or in other words, an independent line of development. A repository can contain multiple branches, which means there are multiple versions of the repository.  
+We used **git branch** to see in which branch are we in.  
+We used **git checkout new_branch** to switch branches.  
+We used **git pull** command to fetch and download content from the remote repository and immediately update the local repository to match that content.  
